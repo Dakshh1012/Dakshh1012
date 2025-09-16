@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">A machine learning enthusiast</h3>
+<h3 align="center">I work on deep learning, generative and agentic ai projects ready to work on any project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
