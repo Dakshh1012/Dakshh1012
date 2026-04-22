@@ -44,6 +44,15 @@ Always ready to collaborate on impactful AIML projects.
 </p>
 
 ---
+<h3 align="center">📊 Coding Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dakshh1012&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Daksh182?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
 <h3 align="center">🔥 What I Do</h3>
 
