@@ -33,17 +33,6 @@ Always ready to collaborate on impactful AIML projects.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dakshh1012&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshh1012&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
----
 <h3 align="center">📊 Coding Stats</h3>
 
 <p align="center">
